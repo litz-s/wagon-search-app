@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-// 画像をimport
+// 画像import
 import BoxWagon from "../assets/images/BoxWagon.png";
 import CrafterWagon from "../assets/images/CrafterWagon.png";
 
